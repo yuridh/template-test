@@ -1,0 +1,25 @@
+{
+  "name": "template-test",
+  "version": "0.0.0",
+  "description": "my laudable SAO template",
+  "repository": {
+    "url": "yuridh/template-test",
+    "type": "git"
+  },
+  "author": "yuridh <yuri.parsons@deliveryhero.com> (github.com/yuridh)",
+  "license": "MIT",
+  "files": [
+    "sao.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "sao": "^0.22.1"
+  }
+}
